@@ -1,0 +1,1 @@
+il puntatore head punta al commit precedente

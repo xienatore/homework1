@@ -1,1 +1,2 @@
-traccia.txt
+*.txt
+!answer.txt
